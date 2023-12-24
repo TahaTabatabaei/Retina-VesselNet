@@ -7,3 +7,4 @@ VesselNet.rar
 /labels-ah/*
 *.tar
 /STARE-labeled/
+/jupyter-notebook/default/*.ipynb
