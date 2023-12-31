@@ -5,4 +5,4 @@ Furthermore, it explores two separate morphological preprocessing methods to imp
 - To train your own model, you can use `Training.ipynb` notebook. The pre-trained model will be added.
 - Test results are in the `TestAndEvaluation.ipynb`.
 - You can download DRIVE from [```here```](https://drive.grand-challenge.org/) and STARE from [```here```](https://cecas.clemson.edu/~ahoover/stare/)
-
+This project is a fork from [```this```](https://github.com/DeepTrial/Retina-VesselNet) repo. I highly recommend reading it for a better understanding of the U-net model.
