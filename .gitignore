@@ -8,7 +8,8 @@ VesselNet.rar
 /DRIVE/test/*
 /DRIVE/training/*
 /py-network copy/*
-/labels-ah/*
 *.tar
-/STARE-labeled/
+/STARE-labeled/ckpt/
+/STARE-labeled/labels-ah/
+/STARE-labeled/stare-images/
 /jupyter-notebook/default/*.ipynb
