@@ -2,7 +2,8 @@
 VesselNet.rar
 *.zip
 /STARE/*
-/DRIVE/*
+/DRIVE/test/*
+/DRIVE/training/*
 /py-network copy/*
 /labels-ah/*
 *.tar
