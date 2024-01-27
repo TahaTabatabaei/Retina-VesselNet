@@ -1,4 +1,7 @@
-/VesselNet/*
+/VesselNet/checkpoint/*
+/VesselNet/ckpt/*
+/VesselNet/dataset/*
+/VesselNet/hdf5/*
 VesselNet.rar
 *.zip
 /STARE/*
